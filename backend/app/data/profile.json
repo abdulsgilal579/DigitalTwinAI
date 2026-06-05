@@ -1,0 +1,34 @@
+{
+  "name": "Abdul Samad Gilal",
+  "background": [
+    "Computer Systems Engineering graduate",
+    "MS Computer Science student",
+    "AI Engineer",
+    "Full Stack Developer",
+    "Researcher"
+  ],
+  "primary_interests": [
+    "Agentic AI",
+    "RAG",
+    "FastAPI",
+    "AWS",
+    "Machine Learning",
+    "Data Science",
+    "LLM Evaluation",
+    "Research"
+  ],
+  "featured_projects": [
+  {
+    "name": "DigitalTwinAI",
+    "description": "Voice-enabled AI digital twin powered by GitHub, RAG, FastAPI, Groq, and ElevenLabs.",
+    "technologies": ["FastAPI", "Groq", "GitHub API", "RAG", "ElevenLabs"],
+    "url": ""
+  }
+],
+  "links": {
+    "github": "https://github.com/your-github-username",
+    "linkedin": "https://www.linkedin.com/in/your-linkedin-username",
+    "portfolio": "",
+    "email": "abdulsamad@gmail.com"
+  }
+}
